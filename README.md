@@ -28,7 +28,23 @@ Traceback (most recent call last):
     result = numerator / denominator
 ZeroDivisionError: division by zero
 ```
+
+## Step 2 - Todo List 
+- [x] Write goooooooooooooood documentation
+- [x] Update Github
+- [x] Learn in Public
+
+## Step 3 - Tables & Emojis
+| Name | Shortcode | Emoji
+| --- | --- | --- |
+| Cloud | `:cloud:` | ☁️ |
+| Smile | `:smile:` | 😄 |
+| Office | `:office:` | 🏢 |
+| Coffee | `:coffee:` | ☕ | 
+
 ## References
-- [Basic syntax and formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>1</sup>
-- [Codeblocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)<sup>2</sup>
-- [Github Markdown Editor & GFM](https://www.youtube.com/watch?v=O9z6OvL-AQQ&list=PLBfufR7vyJJ4q5YCPl4o2XAzGRZUjuD-A&index=16)<sup>3</sup>
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)<sup>1</sup>
+- [Basic syntax and formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>2</sup>
+- [Codeblocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)<sup>3</sup>
+- [Github Markdown Editor & GFM](https://www.youtube.com/watch?v=O9z6OvL-AQQ&list=PLBfufR7vyJJ4q5YCPl4o2XAzGRZUjuD-A&index=16)<sup>4</sup>
+- [GFM Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet)<sup>5</sup>
