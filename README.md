@@ -43,7 +43,7 @@ ZeroDivisionError: division by zero
 | Coffee | `:coffee:` | ☕ | 
 
 ## Step 4 - Anchor
-[Read this to get a job in Cloud right now](random-text/bot.md)
+[Read this to get a job in Cloud right now](https://github.com/bLACKZU/github-docs-example/blob/main/random-text%20/bot.md)
 
 ## References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)<sup>1</sup>
