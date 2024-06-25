@@ -42,6 +42,9 @@ ZeroDivisionError: division by zero
 | Office | `:office:` | 🏢 |
 | Coffee | `:coffee:` | ☕ | 
 
+## Step 4 - Anchor
+[Read this to get a job in Cloud right now!](random-text/random.md)
+
 ## References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)<sup>1</sup>
 - [Basic syntax and formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<sup>2</sup>
